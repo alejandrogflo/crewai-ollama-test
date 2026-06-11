@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+.env
+.env.*
+
+recruiting_crew/outputs/
+Users/
+ejercicio1/
